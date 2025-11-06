@@ -840,7 +840,6 @@ ScriptedImporter:
     cells:
     - name: Orc_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -849,7 +848,6 @@ ScriptedImporter:
       spriteId: 76b4d851d52a1c64cb49905779835e3e
     - name: Orc_Frame_23
       frameIndex: 23
-      additiveSortOrder: 0
       cellRect:
         x: 44
         y: 34
@@ -858,7 +856,6 @@ ScriptedImporter:
       spriteId: 27889e1465c546549a94a47414143c59
     - name: Orc_Frame_25
       frameIndex: 25
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 37
@@ -867,7 +864,6 @@ ScriptedImporter:
       spriteId: b0fd03735cbe5d447b86ecd69f6e804b
     - name: Orc_Frame_31
       frameIndex: 31
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 40
@@ -876,7 +872,6 @@ ScriptedImporter:
       spriteId: 924808786b8ae424a815ee4f0a162440
     - name: Orc_Frame_32
       frameIndex: 32
-      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 40
@@ -885,7 +880,6 @@ ScriptedImporter:
       spriteId: 059fb2e5d739da9458f8b66eea78375e
     - name: Orc_Frame_33
       frameIndex: 33
-      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 40
@@ -894,7 +888,6 @@ ScriptedImporter:
       spriteId: 49650daaec63abc4a874011cfea2ec8d
     - name: Orc_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -903,7 +896,6 @@ ScriptedImporter:
       spriteId: 5b7fc9b168346774cbb281919c0bfcfc
     - name: Orc_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -912,7 +904,6 @@ ScriptedImporter:
       spriteId: 4428d183098a8044294b77f99262ecfa
     - name: Orc_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -921,7 +912,6 @@ ScriptedImporter:
       spriteId: 368221047b114694389b3fe9bb5a3024
     - name: Orc_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -930,7 +920,6 @@ ScriptedImporter:
       spriteId: 16b45fc5c6e9da740ab29527ac213de5
     - name: Orc_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -939,7 +928,6 @@ ScriptedImporter:
       spriteId: 4abec67cb73689643b1d520ab22ebe5c
     - name: Orc_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -948,7 +936,6 @@ ScriptedImporter:
       spriteId: 6c770d1f2cd4d9a4b8bd7befa52297e3
     - name: Orc_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -957,7 +944,6 @@ ScriptedImporter:
       spriteId: 45391f1afe128f644ba3368c230d5a3e
     - name: Orc_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -966,7 +952,6 @@ ScriptedImporter:
       spriteId: f50a2151395564f4498a5dcd6f5fb6d1
     - name: Orc_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -975,7 +960,6 @@ ScriptedImporter:
       spriteId: 85e29d59dc1e4e14ebea90ef070b2cb2
     - name: Orc_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -984,7 +968,6 @@ ScriptedImporter:
       spriteId: e275635df097a9041a9021c6bbab2c56
     - name: Orc_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -993,7 +976,6 @@ ScriptedImporter:
       spriteId: 3462909e106865b4e987dd259d3f9f96
     - name: Orc_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -1002,7 +984,6 @@ ScriptedImporter:
       spriteId: 22d1673462abb3e42893d18ae3add1e7
     - name: Orc_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -1011,7 +992,6 @@ ScriptedImporter:
       spriteId: deeaa937201623940b48937b33bf589e
     - name: Orc_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -1020,7 +1000,6 @@ ScriptedImporter:
       spriteId: b11e51395dbce564dbab4232ba94adda
     - name: Orc_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -1029,7 +1008,6 @@ ScriptedImporter:
       spriteId: 0bca2c38f6b2b004487b2e9c7573d92d
     - name: Orc_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 40
@@ -1038,7 +1016,6 @@ ScriptedImporter:
       spriteId: 9b4abca731cad464c8c4c37d40550088
     - name: Orc_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 38
@@ -1047,7 +1024,6 @@ ScriptedImporter:
       spriteId: 4527efa0742a4a74a8d27e314bdba88c
     - name: Orc_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 38
@@ -1056,7 +1032,6 @@ ScriptedImporter:
       spriteId: 7b50d61f357df39429abfa634d642d2e
     - name: Orc_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 38
@@ -1065,7 +1040,6 @@ ScriptedImporter:
       spriteId: 26fd41296c302f34dbd10456bd160b82
     - name: Orc_Frame_20
       frameIndex: 20
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40
@@ -1074,7 +1048,6 @@ ScriptedImporter:
       spriteId: 672858d6493430a48974ff7ee0e598d6
     - name: Orc_Frame_21
       frameIndex: 21
-      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 40
@@ -1083,7 +1056,6 @@ ScriptedImporter:
       spriteId: 75b0a62b6880327409f20ce6dde7afc3
     - name: Orc_Frame_22
       frameIndex: 22
-      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 40
@@ -1092,7 +1064,6 @@ ScriptedImporter:
       spriteId: 1c6343d7179b32f4b84d5fb798d0cf34
     - name: Orc_Frame_24
       frameIndex: 24
-      additiveSortOrder: 0
       cellRect:
         x: 44
         y: 34
@@ -1101,7 +1072,6 @@ ScriptedImporter:
       spriteId: 6a1985eef8446eb4eac6313466c70dca
     - name: Orc_Frame_26
       frameIndex: 26
-      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 40
@@ -1110,7 +1080,6 @@ ScriptedImporter:
       spriteId: ea77e83aba2ddcf4cbe2e48ed37e9903
     - name: Orc_Frame_27
       frameIndex: 27
-      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 40
@@ -1119,7 +1088,6 @@ ScriptedImporter:
       spriteId: af3feaade48ab6848b1a7c46b9c143da
     - name: Orc_Frame_28
       frameIndex: 28
-      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 40
@@ -1128,7 +1096,6 @@ ScriptedImporter:
       spriteId: 6d25be45f308025449c6692a19372bde
     - name: Orc_Frame_29
       frameIndex: 29
-      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 40
@@ -1137,7 +1104,6 @@ ScriptedImporter:
       spriteId: 6f09815b4dee8e24c98388dab6f7c73f
     - name: Orc_Frame_30
       frameIndex: 30
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 40

@@ -250,7 +250,6 @@ ScriptedImporter:
     cells:
     - name: arm_projectile_glowing_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -259,7 +258,6 @@ ScriptedImporter:
       spriteId: db8d245c407b58440b5ab077f70e5e98
     - name: arm_projectile_glowing_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 60
         y: 56
@@ -268,7 +266,6 @@ ScriptedImporter:
       spriteId: 7b7e51d2d0d2bd34ea7c881bf825ef0c
     - name: arm_projectile_glowing_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 60
         y: 56
@@ -277,7 +274,6 @@ ScriptedImporter:
       spriteId: be58f8ed3e9f71d43a68f5a88ddc6c12
     - name: arm_projectile_glowing_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 60
         y: 56
@@ -286,7 +282,6 @@ ScriptedImporter:
       spriteId: b171e2c68b27ef645865e4e3d05c8646
     - name: arm_projectile_glowing_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 60
         y: 56
@@ -295,7 +290,6 @@ ScriptedImporter:
       spriteId: 5944f9977ed0f9b4d926b1ef94a8467f
     - name: arm_projectile_glowing_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 60
         y: 56

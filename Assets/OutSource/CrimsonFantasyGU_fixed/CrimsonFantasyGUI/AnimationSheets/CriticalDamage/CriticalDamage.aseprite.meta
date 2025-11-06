@@ -530,7 +530,6 @@ ScriptedImporter:
     cells:
     - name: CriticalDamage_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -539,7 +538,6 @@ ScriptedImporter:
       spriteId: 310b0865fa2630040b96ac45de7c7dfb
     - name: CriticalDamage_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -548,7 +546,6 @@ ScriptedImporter:
       spriteId: a41b8a60d26fe6046837ac7617026f71
     - name: CriticalDamage_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -557,7 +554,6 @@ ScriptedImporter:
       spriteId: bc12d76e542b3954086051daa1bacda5
     - name: CriticalDamage_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -566,7 +562,6 @@ ScriptedImporter:
       spriteId: f698ff459be77fd42a2d738ef62131e1
     - name: CriticalDamage_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -575,7 +570,6 @@ ScriptedImporter:
       spriteId: 8185dafcb3245c848b5269951c788e35
     - name: CriticalDamage_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -584,7 +578,6 @@ ScriptedImporter:
       spriteId: 102c4b70a2e98b045bec00f399d8bc6b
     - name: CriticalDamage_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -593,7 +586,6 @@ ScriptedImporter:
       spriteId: d9db96290ff6f4c43a7e7c70e782cebf
     - name: CriticalDamage_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -602,7 +594,6 @@ ScriptedImporter:
       spriteId: e2d93767e2d32ab46a1070ca4dcad460
     - name: CriticalDamage_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -611,7 +602,6 @@ ScriptedImporter:
       spriteId: 24a06b32f65b7474da51d4deeb63aaa8
     - name: CriticalDamage_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -620,7 +610,6 @@ ScriptedImporter:
       spriteId: 4f84a7388847ac24798197d425e83c8b
     - name: CriticalDamage_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -629,7 +618,6 @@ ScriptedImporter:
       spriteId: 6301903254a39c54caa9a5379797e926
     - name: CriticalDamage_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -638,7 +626,6 @@ ScriptedImporter:
       spriteId: ddccca5fa775c944a903b45bba0f85e9
     - name: CriticalDamage_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -647,7 +634,6 @@ ScriptedImporter:
       spriteId: 927f1c71b9d192744a8356e51014664e
     - name: CriticalDamage_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -656,7 +642,6 @@ ScriptedImporter:
       spriteId: 19c2bc235b9daa447a6590adef15dd74
     - name: CriticalDamage_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -665,7 +650,6 @@ ScriptedImporter:
       spriteId: a435959164e6fca42b4e22ff4e341c39
     - name: CriticalDamage_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -674,7 +658,6 @@ ScriptedImporter:
       spriteId: edaefc5d49f4cd7408e127f6a6bf73f4
     - name: CriticalDamage_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -683,7 +666,6 @@ ScriptedImporter:
       spriteId: d572eed7b4f4ab6429d1aa8e05dc7c7a
     - name: CriticalDamage_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -692,7 +674,6 @@ ScriptedImporter:
       spriteId: e58c77308c5d6f344998b1474c88217a
     - name: CriticalDamage_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -701,7 +682,6 @@ ScriptedImporter:
       spriteId: 37463df6df9340e488392b97b03c8530
     - name: CriticalDamage_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0

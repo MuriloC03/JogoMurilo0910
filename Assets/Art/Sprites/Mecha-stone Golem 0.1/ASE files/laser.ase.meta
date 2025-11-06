@@ -410,7 +410,6 @@ ScriptedImporter:
     cells:
     - name: laser_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 63
@@ -419,7 +418,6 @@ ScriptedImporter:
       spriteId: a7d85278db8c11d4fa0501b4bbf0f524
     - name: laser_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 47
@@ -428,7 +426,6 @@ ScriptedImporter:
       spriteId: 93b778032573f9f4d879cd7c2c5ee1fe
     - name: laser_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 47
@@ -437,7 +434,6 @@ ScriptedImporter:
       spriteId: 6a8395249e604b846ad76e59165dc6cd
     - name: laser_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 47
@@ -446,7 +442,6 @@ ScriptedImporter:
       spriteId: 755938b23f70397429d204f0c35ca2c8
     - name: laser_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 47
@@ -455,7 +450,6 @@ ScriptedImporter:
       spriteId: ac6823f2b7351c74ebc0cbe63f5c686a
     - name: laser_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 49
@@ -464,7 +458,6 @@ ScriptedImporter:
       spriteId: d813b84241973574b84e2b517e0a53a7
     - name: laser_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 51
@@ -473,7 +466,6 @@ ScriptedImporter:
       spriteId: c89bdcc43db50104580951f613859be7
     - name: laser_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 52
@@ -482,7 +474,6 @@ ScriptedImporter:
       spriteId: 92a11e356a220574d8f8821a463bf4a5
     - name: laser_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 45
@@ -491,7 +482,6 @@ ScriptedImporter:
       spriteId: bf40e716083c6384ea1e09b5e33d798f
     - name: laser_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 50
@@ -500,7 +490,6 @@ ScriptedImporter:
       spriteId: 066be7cf75228c74696b4b5e3adcdaed
     - name: laser_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 54
@@ -509,7 +498,6 @@ ScriptedImporter:
       spriteId: f8cfb9094b0288b42929117869f657ec
     - name: laser_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 54
@@ -518,7 +506,6 @@ ScriptedImporter:
       spriteId: 40b77a4a2d9187042a48c4025c9267e4
     - name: laser_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 55
@@ -527,7 +514,6 @@ ScriptedImporter:
       spriteId: 0d735943c3615124fbce77ec570421fc
     - name: laser_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 55
