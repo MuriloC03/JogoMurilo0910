@@ -948,328 +948,369 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: ManaRegeneration_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: bb1d4b47cb89e6948b3cf4d228317b1f
-    - name: ManaRegeneration_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 3f52e4592f8d41e4aa20d1c2ead8fd7f
-    - name: ManaRegeneration_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 787f822c1fafaed4485d1edc2da61d36
-    - name: ManaRegeneration_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: e54dcfeacdf5916409543ff945386288
-    - name: ManaRegeneration_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 81de08dfd9ee6d245ad61fb96d2c84cc
-    - name: ManaRegeneration_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 0ebe4e348e7a5774e909ed35dbf88727
-    - name: ManaRegeneration_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: efba25e592443da48b8d0318b69bc1c9
-    - name: ManaRegeneration_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: d37f3b7323dec9d4791f6c8900aae09a
-    - name: ManaRegeneration_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: fd26841a0100ddf419511753a1ee1f03
-    - name: ManaRegeneration_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: ba4e1153f50785240817ad2284922132
-    - name: ManaRegeneration_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: b76e34cf217f44c4fa2be7b0716d3aaf
-    - name: ManaRegeneration_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 276951f9312f2bf4782a5d1622fe1fb4
-    - name: ManaRegeneration_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 32a254c9d15e8f540b15389d72786de0
-    - name: ManaRegeneration_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a3bb3633e8147fd45800a1d62fcad8f5
-    - name: ManaRegeneration_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 0c82a22dac2b85445bdac0e4640ce66b
-    - name: ManaRegeneration_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 5de83855f6ed61a45a19d49cb0d7a075
-    - name: ManaRegeneration_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: ebc14e96cbcc7374a8c72c30992baf1b
-    - name: ManaRegeneration_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 94851413c0f0cb64c9363b4dbd72d980
-    - name: ManaRegeneration_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 302d83baf8ebfc1408c7e00abe6d311d
-    - name: ManaRegeneration_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 8e407553520fea647bf8de9430dc3876
-    - name: ManaRegeneration_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: bc249c8c92d672745a09a8228b80c703
-    - name: ManaRegeneration_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 29d579efcff8b7e41a42fd224499ed95
-    - name: ManaRegeneration_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: bee4d7d551d0162468d1a3130c37f804
-    - name: ManaRegeneration_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: c0865c82835c7bd45b7d01f633c00ba4
-    - name: ManaRegeneration_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 856e7c7358f6c4f46a2674468d04be89
-    - name: ManaRegeneration_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: d05145a1c0abcbb4dbce71cf3f1b784c
-    - name: ManaRegeneration_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: ea8d33e94073e7a4dab2fb280c72b64d
-    - name: ManaRegeneration_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 076e486fbd892314eb3c840b48799ee0
-    - name: ManaRegeneration_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 5f92eafa8d57b944f9928fbb6fb0310f
-    - name: ManaRegeneration_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 203f3de5919ef7149b0d51e617b05be3
-    - name: ManaRegeneration_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: f88c057066f2e9549940414baa38de27
-    - name: ManaRegeneration_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: bd5e49584f8fcf04da3bfbf1342792b3
-    - name: ManaRegeneration_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 55cde7b664c2bd94eba2a26062dc92d0
-    - name: ManaRegeneration_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 6ce52c54b360ce1488134faf7bb86248
-    - name: ManaRegeneration_Frame_34
+    - name: Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 149ee777b8a81844b8fdd29c7f54ee85
-    - name: ManaRegeneration_Frame_35
+    - name: Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 13aa4016aa6b78c44b2277c9947411cb
-    - name: ManaRegeneration_Frame_36
+    - name: Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: dd5e11834e3444741af5f01f927afbde
-    - name: ManaRegeneration_Frame_37
+    - name: Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: b23e6fd74b225af4795103878ff57b26
-    - name: ManaRegeneration_Frame_38
+    - name: Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 938ebc8dea9def54b9b0bd5e6e7f3f1b
-    - name: ManaRegeneration_Frame_39
+    - name: Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 6d821bda84d9f9b40bc6658040d36de8
-    - name: ManaRegeneration_Frame_40
+    - name: Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0

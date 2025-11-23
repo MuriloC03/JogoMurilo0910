@@ -328,80 +328,90 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: GenericSparks_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 1
         width: 59
         height: 14
       spriteId: a208d6b9285af784f886433fcdf6cdd1
-    - name: GenericSparks_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 1
         width: 59
         height: 14
       spriteId: 9ce11ac88625d4c44b0710f0e2359012
-    - name: GenericSparks_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 0
         width: 59
         height: 16
       spriteId: f42d3f61bc792314091677156657bf6c
-    - name: GenericSparks_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 2
         width: 59
         height: 13
       spriteId: 63eadd135810f2042822b0524aa9f62b
-    - name: GenericSparks_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 1
         width: 59
         height: 15
       spriteId: 572fa29248ebdf046b403623e195e045
-    - name: GenericSparks_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 2
         width: 59
         height: 12
       spriteId: d36dfe9eb998e6f46ba5899debcb8491
-    - name: GenericSparks_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 2
         width: 59
         height: 13
       spriteId: b9f77d4a6413906428050d06b642b901
-    - name: GenericSparks_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 3
         width: 59
         height: 11
       spriteId: 279463c40c8261c4c9530404fed3f56c
-    - name: GenericSparks_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 3
         width: 59
         height: 9
       spriteId: 3263ea3e6f6d39547b197354f04b7f3c
-    - name: GenericSparks_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 3

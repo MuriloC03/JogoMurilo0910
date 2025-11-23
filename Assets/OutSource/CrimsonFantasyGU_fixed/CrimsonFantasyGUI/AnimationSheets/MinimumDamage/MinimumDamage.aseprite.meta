@@ -1128,400 +1128,450 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: MinimumDamage_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a70487896a655e94ab7212c7d13c1db5
-    - name: MinimumDamage_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 341571a81acae004b8ee963bd887888a
-    - name: MinimumDamage_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: b7ddd4ead6bac3c46b59cfcc328c4729
-    - name: MinimumDamage_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 976d6a404331b17449647f70f417c0da
-    - name: MinimumDamage_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 94d4c0e238689544389a946be6fd4f40
-    - name: MinimumDamage_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: f775d3efd0bac9c4790abde2a40ab1a4
-    - name: MinimumDamage_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 8958f5bcaa5a53243ac694097ce8b1ae
-    - name: MinimumDamage_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 777f0308c36dfe941acd3f65ce34bfce
-    - name: MinimumDamage_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 6fe5779866f23f64e9c8727f9a2ede65
-    - name: MinimumDamage_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: baa1c2c139794094a9e5507a8e002773
-    - name: MinimumDamage_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 3c1cc73ff81b7884a93993ffab894567
-    - name: MinimumDamage_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 3ccf457ca4d68a7408b18aa0e44042fa
-    - name: MinimumDamage_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: f599332ddf92caf4c925b52a2f631b86
-    - name: MinimumDamage_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 4f855090de991d9409e9b545cbeb7a65
-    - name: MinimumDamage_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 10df3f27669536642ba451d20796942d
-    - name: MinimumDamage_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 1001d512b35e0734e8b65925e72bbce4
-    - name: MinimumDamage_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 85726cd2e03e236478f6c2ba997c63cf
-    - name: MinimumDamage_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a80e465c169c2e141bf143d8a87bbbba
-    - name: MinimumDamage_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 17712e0afa15f9c4eacee8c1691540ec
-    - name: MinimumDamage_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 56f3005fed3f57b49ba19f47999fcdd6
-    - name: MinimumDamage_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 2c4f030d9ed58f24d985288031866600
-    - name: MinimumDamage_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: f5bf9c6912cdb1f469b65156e1e1e844
-    - name: MinimumDamage_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 8ab4049ba3a6bc74891fc8fd0b98bc5d
-    - name: MinimumDamage_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 70a59c9f085f93f4fa8b93771f6f675e
-    - name: MinimumDamage_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: c64d0b796f5ffab469abee492f0735fa
-    - name: MinimumDamage_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 757ffe9d93b25cc4397380cbbb940703
-    - name: MinimumDamage_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: afccd191e769d3c4482e4bbefbaac3c4
-    - name: MinimumDamage_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 52b2c3d784a845e4d8bf1066fe524c09
-    - name: MinimumDamage_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: dccc8a5011b18ab4c99ed9c1d9f06daf
-    - name: MinimumDamage_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 5267d630c6c6d14489bce66ba5922074
-    - name: MinimumDamage_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: df5dac82d5a50394dab0bbeecb94bf83
-    - name: MinimumDamage_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 22f1b26160a84cd49a7f798388bfe4fa
-    - name: MinimumDamage_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 51617dac98fd5724f97a0a2788ed083d
-    - name: MinimumDamage_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: bbaf2861f921be647b55c281a1a63545
-    - name: MinimumDamage_Frame_34
+    - name: Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 07b41610aa3b6af4699371036198ef7d
-    - name: MinimumDamage_Frame_35
+    - name: Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: acd13a56c200f63418aeb2b86e35099e
-    - name: MinimumDamage_Frame_36
+    - name: Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 4a7c0b30fd257ed4996b3d2ab932f8ed
-    - name: MinimumDamage_Frame_37
+    - name: Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: dbe5018b91a7f3d4591b965c0be14541
-    - name: MinimumDamage_Frame_38
+    - name: Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: bf35e0b41f7fd3346989f90e6fe7800f
-    - name: MinimumDamage_Frame_39
+    - name: Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 82a145283cc50cf458e000489145a15d
-    - name: MinimumDamage_Frame_40
+    - name: Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a072e34d4300a43429f90b08d0eb4859
-    - name: MinimumDamage_Frame_41
+    - name: Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 2617d6338ac9335428f976c81904e2c6
-    - name: MinimumDamage_Frame_42
+    - name: Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: f748f7f8dd5142443a0c2dfe52ce7baf
-    - name: MinimumDamage_Frame_43
+    - name: Frame_43
       frameIndex: 43
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 1b71157e3bee54247a2bc9cfc68913c2
-    - name: MinimumDamage_Frame_44
+    - name: Frame_44
       frameIndex: 44
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a84df0f7a7662df4f95c6fa0663505d0
-    - name: MinimumDamage_Frame_45
+    - name: Frame_45
       frameIndex: 45
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 948d16fcb6ea27c47b119f1a2205fc25
-    - name: MinimumDamage_Frame_46
+    - name: Frame_46
       frameIndex: 46
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: ad7828850410714479780093a1fa4139
-    - name: MinimumDamage_Frame_47
+    - name: Frame_47
       frameIndex: 47
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: f2b8880697bb46441b3bf255ea5cc604
-    - name: MinimumDamage_Frame_48
+    - name: Frame_48
       frameIndex: 48
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 54be9d3e8af61c847a5bea2848f6c7a4
-    - name: MinimumDamage_Frame_49
+    - name: Frame_49
       frameIndex: 49
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0

@@ -948,328 +948,369 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: ManaFading_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: fab0432fb232f6046959073c0ca844c2
-    - name: ManaFading_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 52a07b7163abd2248bf0f11eb25f588e
-    - name: ManaFading_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 1d15491401a824b479c9a21d7188170e
-    - name: ManaFading_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 3423ac8bea5eeb84db8fdc77a1453068
-    - name: ManaFading_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 3a720ea2991550c4093fb0c31214645f
-    - name: ManaFading_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 7b1a5cadd45230741961f6bc7a0a712f
-    - name: ManaFading_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: fa479a0e75abc714b97cbd4bdea856f8
-    - name: ManaFading_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 29c8a9e34ca6af04e9566ecc53d5cda6
-    - name: ManaFading_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 71e03798104e5a8408d21aabe4933d3a
-    - name: ManaFading_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: dcd81478372f7d74d91a6b39cd37b218
-    - name: ManaFading_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: fcf49f25e6fd1064abae06049ed0c831
-    - name: ManaFading_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: eb7eea8f24591474eb936a44a4ef047a
-    - name: ManaFading_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: e96517f160cf4284090bab7ced12f86e
-    - name: ManaFading_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 0640fa905245e884299c78b28d16c307
-    - name: ManaFading_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 4b62337f63c6e9d439703a8832207934
-    - name: ManaFading_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: c02ed741eaaa125439295d5ea029fb1c
-    - name: ManaFading_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 74dbb104e200ef24e80b7b1471f1f12c
-    - name: ManaFading_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 0d5a05888ee15224aaec4672e9fbd933
-    - name: ManaFading_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 7c9e3b30dc4dbf64a9d55076a35b44ab
-    - name: ManaFading_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: ab4033095aa8f9a48a699ec3f33d7307
-    - name: ManaFading_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 82570c7146b686449a5302d543593c6a
-    - name: ManaFading_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: bb5033c62c5cd5d4f8d7b9251217e1c8
-    - name: ManaFading_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 14d7a9d175e14fe499ccec00d468ecdb
-    - name: ManaFading_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a2bbcdb7766b815409b1d34c8dab3b42
-    - name: ManaFading_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 5b04b48976964ad4988b7dce0ef44c3b
-    - name: ManaFading_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 671e3463a5221ed4ca4e4e135a3c4e6d
-    - name: ManaFading_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 55a6760d1ff39f549bd91ebaf7c81d1a
-    - name: ManaFading_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 9a60aafd68ec79245bbcb5ed2896904e
-    - name: ManaFading_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 84c30943d22c88f4bb46c1a0f478b0cf
-    - name: ManaFading_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 4c17fc9c5a021694cb1c77b02593ffaf
-    - name: ManaFading_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: d0424ef56f3f5df40b8964583306ce57
-    - name: ManaFading_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 264698f370baa2d4780360f7342b79e6
-    - name: ManaFading_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a87f858670c810e45857d22df33377df
-    - name: ManaFading_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 31fd11ac3ba974f49bf702dd5cea5394
-    - name: ManaFading_Frame_34
+    - name: Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a262bd1c58f1b9d4db6bc54f26485634
-    - name: ManaFading_Frame_35
+    - name: Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: a744ab21c86d21c45b9774375d5545dc
-    - name: ManaFading_Frame_36
+    - name: Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: d596d31bb9deb6a4d917faa41071ef1e
-    - name: ManaFading_Frame_37
+    - name: Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: ebb2b60a2b13c654c96ea28a390cd15f
-    - name: ManaFading_Frame_38
+    - name: Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: 72d3fede521f5154b828b2c3882f4c10
-    - name: ManaFading_Frame_39
+    - name: Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 64
         height: 16
       spriteId: c6ea8b132b00bc746adf2038fdec44d2
-    - name: ManaFading_Frame_40
+    - name: Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0

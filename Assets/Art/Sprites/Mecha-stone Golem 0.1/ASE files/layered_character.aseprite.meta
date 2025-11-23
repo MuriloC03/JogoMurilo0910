@@ -1488,544 +1488,612 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: layered_character_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 825aee234acb6514f89c35baedf45a51
-    - name: layered_character_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 99b82be5edce60548bf074f827a27e2f
-    - name: layered_character_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 31
         width: 48
         height: 46
       spriteId: 85158fb10b52e8243bfdb7d88c2ef59e
-    - name: layered_character_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 5f7417db36df2e748a1a908422d09d1c
-    - name: layered_character_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 1938b61eabc88434aa608e8f2fdded5d
-    - name: layered_character_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: eea92fd534a89554eab527fe383bd968
-    - name: layered_character_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 804735cbe2bbf5a499a907d365a9ca8e
-    - name: layered_character_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: e0e7cb68357554a42968e23546fba374
-    - name: layered_character_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 5398fe63f591cb64b806a007136a0c9c
-    - name: layered_character_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: db0e8061162d81e4a9e802f0ce1a1552
-    - name: layered_character_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 8c82ebcacefed7645942604870d4d95a
-    - name: layered_character_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 9065c5d05805e1142a233b05d763e826
-    - name: layered_character_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 33d89cc814d02b842a029b7e30d494e6
-    - name: layered_character_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: f7dc29520293b22429061838f1a5d935
-    - name: layered_character_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 51
         height: 46
       spriteId: 66995c71a02dda44683bdb95dcf20a7e
-    - name: layered_character_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 57
         height: 46
       spriteId: b01bcd49a36da1940b8a9779c768cbe6
-    - name: layered_character_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 66
         height: 46
       spriteId: d91c26937df25ba4cb4f65f5970f77b5
-    - name: layered_character_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 66
         height: 46
       spriteId: e5fbb8eb25e41cc4b860f9fdf0e5e0eb
-    - name: layered_character_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 68
         height: 46
       spriteId: 06a1d9bd43c0bd14b8750c41125f5da2
-    - name: layered_character_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 68
         height: 46
       spriteId: a0fd7e01148595a40aac22230892261c
-    - name: layered_character_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 70
         height: 46
       spriteId: 245fedba884072b40bf4bf612c7e80cd
-    - name: layered_character_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 30
         width: 49
         height: 46
       spriteId: 85de25ad74de4e348a6eef727d911b34
-    - name: layered_character_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 46c6a9fcc9fe68e4b8a0f345d5b331c7
-    - name: layered_character_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 30
         width: 44
         height: 45
       spriteId: bcc70737cdcac904c85295a687f04e61
-    - name: layered_character_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 29
         y: 30
         width: 40
         height: 44
       spriteId: f27faf59d804b534881ff5eb98b3a951
-    - name: layered_character_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 30
         width: 36
         height: 43
       spriteId: 0354b9a4857eacc46b6088518d7a4968
-    - name: layered_character_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 30
         width: 34
         height: 43
       spriteId: e2ed3377a55139e49920ecc8274b064d
-    - name: layered_character_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 30
         width: 34
         height: 43
       spriteId: 30134131a1b9bbe40be3f1f82117263b
-    - name: layered_character_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 30
         width: 34
         height: 43
       spriteId: 02a8ff99e71424d418ff1a1d7c8f99da
-    - name: layered_character_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 30
         width: 34
         height: 43
       spriteId: eed3b165fef9d5c4897a3c96d7de3a50
-    - name: layered_character_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: aeea782de2181954bb252551dd477008
-    - name: layered_character_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 9ddda6146fb4191468258c2c839a7059
-    - name: layered_character_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: debaa69932166a741b94ec7abeb65071
-    - name: layered_character_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 11364b6940e98fb4a90d30630303e820
-    - name: layered_character_Frame_34
+    - name: Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 47
         height: 46
       spriteId: 717c7ec0d6fb22c4bb6ecfd85a97aeaf
-    - name: layered_character_Frame_35
+    - name: Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 49
         height: 46
       spriteId: 48db35e74a1643f4e9eba1442c66e488
-    - name: layered_character_Frame_36
+    - name: Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 28
         width: 61
         height: 48
       spriteId: 41b0aaefa0783554492c14e8c750b3a6
-    - name: layered_character_Frame_37
+    - name: Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 79cade48ff415bd40a7a64ad2ce09c15
-    - name: layered_character_Frame_38
+    - name: Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: c05a6767d0c0466438435bf7996fec65
-    - name: layered_character_Frame_39
+    - name: Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: ba8288fbeeeffb54cad7fc9c90d03753
-    - name: layered_character_Frame_40
+    - name: Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: a72a5c27151fe2143bb78d17341fe1e6
-    - name: layered_character_Frame_41
+    - name: Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: ad89fbafbc6a52f4fa1e20b687baae30
-    - name: layered_character_Frame_42
+    - name: Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: ba78764d495104b4e9091a78fa8259f7
-    - name: layered_character_Frame_43
+    - name: Frame_43
       frameIndex: 43
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 94fef6afcd6374a45abfa529064370e7
-    - name: layered_character_Frame_44
+    - name: Frame_44
       frameIndex: 44
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 5cb067fd65cf0e3418d5bc1b325a571d
-    - name: layered_character_Frame_45
+    - name: Frame_45
       frameIndex: 45
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 88e50fccb991d2c4793743bcf77f9067
-    - name: layered_character_Frame_46
+    - name: Frame_46
       frameIndex: 46
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 77306d73cd6e28b4cb0f352419bab7d5
-    - name: layered_character_Frame_47
+    - name: Frame_47
       frameIndex: 47
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 30
         width: 44
         height: 46
       spriteId: f15d8b205d024fa46a0a903f63811b34
-    - name: layered_character_Frame_48
+    - name: Frame_48
       frameIndex: 48
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 26
         width: 48
         height: 50
       spriteId: 72e4e1d9c7da37a49a93f1b4260ed7c0
-    - name: layered_character_Frame_49
+    - name: Frame_49
       frameIndex: 49
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: a9410651ea8c89740b4f108aa9f4688c
-    - name: layered_character_Frame_50
+    - name: Frame_50
       frameIndex: 50
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: a9707935a05df9e45b461c493a82123c
-    - name: layered_character_Frame_51
+    - name: Frame_51
       frameIndex: 51
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 89dba3578eba7c4448f9ffbe78db16c0
-    - name: layered_character_Frame_52
+    - name: Frame_52
       frameIndex: 52
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 0e7d3a799172ae2409cec5b15abe26ca
-    - name: layered_character_Frame_53
+    - name: Frame_53
       frameIndex: 53
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 3c54c4d5b09e04f4891bc557d27ee759
-    - name: layered_character_Frame_54
+    - name: Frame_54
       frameIndex: 54
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 6744cbedc3fc52e469e73b605ce0fe9f
-    - name: layered_character_Frame_55
+    - name: Frame_55
       frameIndex: 55
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 72dde769226aaf1449ca71e1a23ea53f
-    - name: layered_character_Frame_56
+    - name: Frame_56
       frameIndex: 56
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: 93dda9461a7a36b4180c12d0a5beea33
-    - name: layered_character_Frame_57
+    - name: Frame_57
       frameIndex: 57
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 30
         width: 48
         height: 46
       spriteId: d276ca0d7d447f14a9091aa9ec79f378
-    - name: layered_character_Frame_58
+    - name: Frame_58
       frameIndex: 58
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 29
         width: 46
         height: 46
       spriteId: 59f1a320013f91d4c92299047214a196
-    - name: layered_character_Frame_59
+    - name: Frame_59
       frameIndex: 59
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 27
         width: 46
         height: 46
       spriteId: 87c7ab073a2159a41a0e2d62a6471e36
-    - name: layered_character_Frame_60
+    - name: Frame_60
       frameIndex: 60
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 24
         width: 44
         height: 46
       spriteId: b61797ab023655b48abe495fd373b76c
-    - name: layered_character_Frame_61
+    - name: Frame_61
       frameIndex: 61
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 17
         width: 44
         height: 53
       spriteId: a4cb96248b7a8384dbabf03369589f3b
-    - name: layered_character_Frame_62
+    - name: Frame_62
       frameIndex: 62
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 8
         width: 44
         height: 62
       spriteId: 77fc359fc97a1294cb0702dd38a25392
-    - name: layered_character_Frame_63
+    - name: Frame_63
       frameIndex: 63
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 7
         width: 47
         height: 63
       spriteId: b7e6be5ac0379a04c9fef8354e15f329
-    - name: layered_character_Frame_64
+    - name: Frame_64
       frameIndex: 64
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 7
         width: 47
         height: 59
       spriteId: 507a56ef93e27934da44f227c6f67029
-    - name: layered_character_Frame_65
+    - name: Frame_65
       frameIndex: 65
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 6
         width: 47
         height: 43
       spriteId: 203b8ebd123879640bb985bf1cc3bbfb
-    - name: layered_character_Frame_66
+    - name: Frame_66
       frameIndex: 66
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 6
         width: 47
         height: 37
       spriteId: 266bfd614555fd44382630a75e868b2c
-    - name: layered_character_Frame_67
+    - name: Frame_67
       frameIndex: 67
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 6
